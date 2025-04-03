@@ -1,2 +1,5 @@
 # Angular-17-Specialization
-Elevate your development skills with Angular 17. Master one of the most popular frameworks used in modern web sites and portals.
+
+## Course 1 - Angular 17 Overview & Basics
+## Course 2 - Advanced Angular Topics
+## Course 3 - Advanced Angular Development
